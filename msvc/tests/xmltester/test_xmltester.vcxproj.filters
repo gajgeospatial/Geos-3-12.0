@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="N:\Development\Dev_Base\geos-3.12.0\tests\xmltester\XMLTester.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Development\Dev_Base\geos-3.12.0\tests\xmltester\BufferResultMatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Development\Dev_Base\geos-3.12.0\tests\xmltester\SingleSidedBufferResultMatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="N:\Development\Dev_Base\geos-3.12.0\tests\xmltester\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{825A98B7-6A27-3F8C-81EB-9210FC5DAF53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
